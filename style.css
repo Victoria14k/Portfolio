@@ -105,11 +105,18 @@ a:hover {
   max-width: 800px;
 }
 @media (max-width: 576px) {
+  h1 {
+    font-size: 48px;
+    line-height: 1.5;
+  }
 h5,p {
   text-align: center;
 }
-h2,h3 {
-  font-size: smaller;
+h2 {
+font-size: 32px;
+}
+h3 {
+  font-size: 24px;
 }
 
 
