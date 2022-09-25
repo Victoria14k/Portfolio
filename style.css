@@ -108,6 +108,9 @@ a:hover {
 h5,p {
   text-align: center;
 }
+h2,h3 {
+  font-size: smaller;
+}
 
 
 }
